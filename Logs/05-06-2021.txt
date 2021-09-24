@@ -1,0 +1,15 @@
+23:04:56 - Success: Connection to database succeeded
+23:04:56 - LoginDetails: username mxolisi@email.com, password test
+23:04:57 - LoginToken: fb909704-a292-11eb-9352-0242ac110008
+23:07:21 - Success: Connection to database succeeded
+23:07:21 - LoginDetails: username mxolisi@email.com, password test
+23:07:21 - LoginToken: fb909704-a292-11eb-9352-0242ac110008
+23:07:53 - Success: Connection to database succeeded
+23:07:53 - LoginDetails: username mxolisi@email.com, password test
+23:07:53 - LoginToken: fb909704-a292-11eb-9352-0242ac110008
+23:08:17 - Success: Connection to database succeeded
+23:08:17 - LoginDetails: username mxolisi@email.com, password test
+23:08:17 - LoginToken: fb909704-a292-11eb-9352-0242ac110008
+23:09:38 - Success: Connection to database succeeded
+23:09:38 - LoginDetails: username mxolisi@email.com, password test
+23:09:38 - LoginToken: fb909704-a292-11eb-9352-0242ac110008

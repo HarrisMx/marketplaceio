@@ -1,0 +1,10 @@
+[2021-06-26 13:09:47.212] [sharedprocess] [info] Deleted from disk tabnine.tabnine-vscode /root/.vscode/extensions/tabnine.tabnine-vscode-3.4.4
+[2021-06-26 13:09:51.324] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /root/.vscode/extensions/ms-python.vscode-pylance-2021.6.0
+[2021-06-26 13:09:51.395] [sharedprocess] [info] Deleted from disk ms-python.python /root/.vscode/extensions/ms-python.python-2021.5.842923320
+[2021-06-26 13:09:51.520] [sharedprocess] [error] [uncaught exception in sharedProcess]: The "path" argument must be of type string. Received type undefined: Error: The "path" argument must be of type string. Received type undefined
+    at b (file:///snap/code/65/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:14:14135)
+    at basename (file:///snap/code/65/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:14:22371)
+    at n.groupImportantTipsByExe (file:///snap/code/65/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:5088)
+    at n.collectTips (file:///snap/code/65/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:4567)
+    at async file:///snap/code/65/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:3764
+[2021-06-26 13:10:26.335] [sharedprocess] [info] Starting to clean up unused language packs.

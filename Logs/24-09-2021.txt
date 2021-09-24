@@ -1,0 +1,22 @@
+17:36:27 - Success: Connection to database succeeded
+17:36:27 - LoginException: 'contact_number'
+17:37:49 - Success: Connection to database succeeded
+17:37:49 - registerUser: phone_number 0817302595, id_number 9611256032084
+17:37:50 - LoginException: (1054, "Unknown column 'token' in 'field list'")
+17:40:22 - Success: Connection to database succeeded
+17:40:22 - registerUser: phone_number 0817302595, id_number 9611256032084
+17:40:24 - RegistrationException: (1364, "Field 'fullname' doesn't have a default value")
+17:42:10 - Success: Connection to database succeeded
+17:42:10 - registerUser: phone_number 0817302595, id_number 9611256032084
+17:42:10 - RegistrationException: (1364, "Field 'profile_pic_id' doesn't have a default value")
+17:43:21 - Success: Connection to database succeeded
+17:43:21 - registerUser: phone_number 0817302595, id_number 9611256032084
+17:43:21 - RegistrationException: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`marketplaceiov2db`.`marketplace_user`, CONSTRAINT `marketplace_user_profile_pic_id_ac2423cd_fk_marketplace_image_id` FOREIGN KEY (`profile_pic_id`) REFERENCES `marketplace_image` (`id`))')
+17:47:06 - Success: Connection to database succeeded
+17:47:06 - registerUser: phone_number 0817302595, id_number 9611256032084
+17:47:07 - RegistrationException: (1452, 'Cannot add or update a child row: a foreign key constraint fails (`marketplaceiov2db`.`marketplace_user`, CONSTRAINT `marketplace_user_profile_pic_id_ac2423cd_fk_marketplace_image_id` FOREIGN KEY (`profile_pic_id`) REFERENCES `marketplace_image` (`id`))')
+17:47:42 - Success: Connection to database succeeded
+17:47:42 - registerUser: phone_number 0817302595, id_number 9611256032084
+17:47:44 - RegistrationException: 'NoneType' object is not subscriptable
+17:54:16 - Success: Connection to database succeeded
+17:54:16 - registerUser: phone_number 0817302595, id_number 9611256032084
