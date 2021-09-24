@@ -1,0 +1,23 @@
+name: MarketplaceIO CI
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Marketplace App
+      uses: actions/checkout@v1
+    
+    - name: Deploy Marketplace App
+      uses: appleboy/scp-action@master
+      env:
+        HOST: ${{secrets.SSH_HOST}}
+        USERNAME: ${{secrets.SSH_USERNAME}}
+        PORT: ${{secrets.SSH_PORT}}
+        PASSWORD: ${{secrets.SSH_PASSWORD}} 
+      with:
+        source: "."
+        target: "/var/www/apis/Marketplace"
