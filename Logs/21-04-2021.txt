@@ -1,0 +1,26 @@
+12:48:12 - LoginDetails: username mxolisi@email.com, password test
+12:48:12 - LoginException: name 'dbfObj' is not defined
+12:50:05 - DatabaseConnectionException: name 'pymysql' is not defined
+12:50:05 - LoginDetails: username mxolisi@email.com, password test
+12:50:05 - LoginException: 'NoneType' object has no attribute 'callproc'
+13:21:44 - DatabaseConnectionException: (2003, "Can't connect to MySQL server on 'localhost' ([Errno 99] Cannot assign requested address)")
+13:21:44 - LoginDetails: username mxolisi@email.com, password test
+13:21:44 - LoginException: 'NoneType' object has no attribute 'callproc'
+13:23:21 - Success: Connection to database succeeded
+13:23:21 - LoginDetails: username mxolisi@email.com, password test
+13:23:21 - LoginToken: fb909704-a292-11eb-9352-0242ac110008
+13:27:26 - Success: Connection to database succeeded
+13:27:26 - LoginDetails: username mxolisi@email.com, password test
+13:27:26 - LoginToken: fb909704-a292-11eb-9352-0242ac110008
+13:28:45 - Success: Connection to database succeeded
+13:28:45 - LoginDetails: username mxolisi@email.com, password test
+13:28:45 - LoginToken: fb909704-a292-11eb-9352-0242ac110008
+13:36:25 - Success: Connection to database succeeded
+13:36:25 - LoginDetails: username mxolisi@email.com, password test
+13:36:25 - LoginToken: fb909704-a292-11eb-9352-0242ac110008
+13:58:32 - Success: Connection to database succeeded
+13:58:32 - LoginDetails: username mxolisi@email.com, password test
+13:58:32 - LoginToken: fb909704-a292-11eb-9352-0242ac110008
+14:12:47 - Success: Connection to database succeeded
+14:12:47 - LoginDetails: username mxolisi@email.com, password test
+14:12:47 - LoginToken: fb909704-a292-11eb-9352-0242ac110008

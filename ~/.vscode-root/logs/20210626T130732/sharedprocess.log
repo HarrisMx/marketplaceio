@@ -1,0 +1,27 @@
+[2021-06-26 13:07:44.636] [sharedprocess] [info] Deleted from disk yandeu.five-server /root/.vscode/extensions/yandeu.five-server-0.0.29
+[2021-06-26 13:07:44.655] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /root/.vscode/extensions/ms-python.vscode-pylance-2021.5.2
+[2021-06-26 13:07:44.770] [sharedprocess] [error] [uncaught exception in sharedProcess]: The "path" argument must be of type string. Received type undefined: Error: The "path" argument must be of type string. Received type undefined
+    at b (file:///snap/code/65/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:14:14135)
+    at basename (file:///snap/code/65/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:14:22371)
+    at n.groupImportantTipsByExe (file:///snap/code/65/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:5088)
+    at n.collectTips (file:///snap/code/65/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:4567)
+    at async file:///snap/code/65/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:47:3764
+[2021-06-26 13:07:47.259] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-06-26 13:07:47.262] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-06-26 13:07:47.263] [sharedprocess] [info] Installing extension: tabnine.tabnine-vscode
+[2021-06-26 13:07:50.075] [sharedprocess] [info] Downloaded extension: tabnine.tabnine-vscode /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/CachedExtensionVSIXs/tabnine.tabnine-vscode-3.4.10
+[2021-06-26 13:07:50.123] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.d33f0b8a-a07b-4dea-b807-bb7fb03efd77: tabnine.tabnine-vscode
+[2021-06-26 13:07:50.164] [sharedprocess] [info] Renamed to /root/.vscode/extensions/tabnine.tabnine-vscode-3.4.10
+[2021-06-26 13:07:50.167] [sharedprocess] [info] Installation completed. tabnine.tabnine-vscode
+[2021-06-26 13:07:50.325] [sharedprocess] [info] Extensions installed successfully: tabnine.tabnine-vscode
+[2021-06-26 13:08:16.570] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-06-26 13:08:27.629] [sharedprocess] [info] Downloaded extension: ms-python.python /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/CachedExtensionVSIXs/ms-python.python-2021.5.926500501
+[2021-06-26 13:08:30.424] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.6.3
+[2021-06-26 13:08:31.256] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.6ca4874a-4436-49b1-b6d1-cde81f11e630: ms-python.python
+[2021-06-26 13:08:31.351] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.python-2021.5.926500501
+[2021-06-26 13:08:31.355] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-06-26 13:08:31.515] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2021-06-26 13:08:33.231] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.e16e8ff0-8c96-44fe-9e51-f286cd500cb3: ms-python.vscode-pylance
+[2021-06-26 13:08:33.342] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.vscode-pylance-2021.6.3
+[2021-06-26 13:08:33.344] [sharedprocess] [info] Installation completed. ms-python.vscode-pylance
+[2021-06-26 13:08:33.477] [sharedprocess] [info] Extensions installed successfully: ms-python.vscode-pylance

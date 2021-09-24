@@ -1,0 +1,1 @@
+[2021-06-26 13:07:45.594] [renderer1] [warning] UNRESPONSIVE extension host, 'yandeu.five-server' took 100% of 3434.08ms, saved PROFILE here: 'file:///tmp/exthost-9eea05.cpuprofile' [{"id":"gc","total":7154,"percentage":0},{"id":"program","total":1367,"percentage":0},{"id":"self","total":8400,"percentage":0},{"id":"yandeu.five-server","total":3416964,"percentage":100}]
