@@ -1,0 +1,32 @@
+User belongs to experiment group 'pythonaacf'
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonTensorboardExperiment'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'PythonPyTorchProfiler'
+User belongs to experiment group 'pythonDeprecatePythonPathcf'
+Python interpreter path: /usr/bin/python3
+Error 2021-10-02 21:24:52: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file '/home/mxolisi/Documents/Codes/Python/marketplaceio/.vscode/settings.json' (Error: Unable to resolve non-existing file '/home/mxolisi/Documents/Codes/Python/marketplaceio/.vscode/settings.json')
+	at _handleError (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:160087)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async y.readText (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:343940)
+	at async p.doesFileNeedToBeFixed (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:581700)
+	at async /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580827
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580773)
+	at async p.updateTestSettings (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580400)] {
+  code: 'FileNotFound'
+}
+Starting Pylance language server.
+Error 2021-10-02 21:24:52: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file '/root/.config/Code/User/settings.json' (Error: Unable to resolve non-existing file '/root/.config/Code/User/settings.json')
+	at _handleError (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:160087)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async y.readText (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:343940)
+	at async p.doesFileNeedToBeFixed (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:581700)
+	at async /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580827
+	at async Promise.all (index 0)
+	at async p.getFilesToBeFixed (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580773)
+	at async p.updateTestSettings (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:580400)] {
+  code: 'FileNotFound'
+}
+> conda --version

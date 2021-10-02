@@ -1,0 +1,7 @@
+[2021-10-02 21:24:33.263] [renderer1] [info] Migrating workbench.editorAssociations
+[2021-10-02 21:24:37.693] [renderer1] [error] Unable to read file 'vscode-userdata:/home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/User/settings.json' (Error: File not modified since): Error: Unable to read file 'vscode-userdata:/home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/User/settings.json' (Error: File not modified since)
+    at ci.doReadFileStream (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:609:17038)
+    at async p.doRead (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2428:39774)
+    at async p.readStream (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2428:39495)
+    at async Xr.resolveFromFile (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2420:102493)
+    at async Object.factory (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2428:33618)

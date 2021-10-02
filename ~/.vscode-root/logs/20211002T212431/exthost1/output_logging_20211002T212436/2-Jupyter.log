@@ -1,0 +1,64 @@
+User belongs to experiment group 'pythonJediLSP'
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'pythonDiscoveryModuleWithoutWatcher'
+User belongs to experiment group 'pythonSurveyNotification'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+User belongs to experiment group 'pythonDeprecatePythonPathcf'
+Error 2021-10-02 21:24:36: Exception while attempting zmq : [Error: /snap/core/current/usr/lib/x86_64-linux-gnu/libstdc++.so.6: version `GLIBCXX_3.4.22' not found (required by /root/.vscode/extensions/ms-toolsai.jupyter-2021.6.999662501/out/client/node_modules/zeromq/prebuilds/linux-x64/electron.napi.glibc.node)
+	at process.func [as dlopen] (electron/js2c/asar_bundle.js:5:1846)
+	at Object.Module._extensions..node (internal/modules/cjs/loader.js:1185:18)
+	at Object.func [as .node] (electron/js2c/asar_bundle.js:5:1846)
+	at Module.load (internal/modules/cjs/loader.js:982:32)
+	at Module._load (internal/modules/cjs/loader.js:823:14)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+	at Function.i._load (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+	at Function.E._load (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+	at Function.o._load (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+	at Module.require (internal/modules/cjs/loader.js:1006:19)
+	at v (/snap/code/75/usr/share/code/resources/app/out/vs/loader.js:4:698)
+	at load (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.999662501/out/client/node_modules/node-gyp-build/index.js:21:10)
+	at Object.<anonymous> (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.999662501/out/client/node_modules/zeromq/lib/native.js:6:43)
+	at Module.u._compile (/snap/code/75/usr/share/code/resources/app/out/vs/loader.js:4:1315)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:1155:10)
+	at Module.load (internal/modules/cjs/loader.js:982:32)
+	at Module._load (internal/modules/cjs/loader.js:823:14)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+	at Function.i._load (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+	at Function.E._load (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+	at Function.o._load (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+	at Module.require (internal/modules/cjs/loader.js:1006:19)
+	at v (/snap/code/75/usr/share/code/resources/app/out/vs/loader.js:4:698)
+	at Object.<anonymous> (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.999662501/out/client/node_modules/zeromq/lib/index.js:3:16)
+	at Module.u._compile (/snap/code/75/usr/share/code/resources/app/out/vs/loader.js:4:1315)
+	at Object.Module._extensions..js (internal/modules/cjs/loader.js:1155:10)
+	at Module.load (internal/modules/cjs/loader.js:982:32)
+	at Module._load (internal/modules/cjs/loader.js:823:14)
+	at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+	at Function.i._load (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:28190)
+	at Function.E._load (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:24778)
+	at Function.o._load (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:59872)
+	at Module.require (internal/modules/cjs/loader.js:1006:19)
+	at v (/snap/code/75/usr/share/code/resources/app/out/vs/loader.js:4:698)
+	at Object.<anonymous> (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.999662501/out/client/extension.js:37:305883)
+	at n (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.999662501/out/client/extension.js:1:186)
+	at d.zmqSupported (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.999662501/out/client/extension.js:90:455640)
+	at d.isSupportedForLocalLaunch (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.999662501/out/client/extension.js:90:455290)
+	at d.supported (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.999662501/out/client/extension.js:90:455200)
+	at Object.t.registerTypes (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.999662501/out/client/extension.js:52:806804)
+	at /root/.vscode/extensions/ms-toolsai.jupyter-2021.6.999662501/out/client/extension.js:52:245973
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async /root/.vscode/extensions/ms-toolsai.jupyter-2021.6.999662501/out/client/extension.js:37:826672
+	at async t.activate (/root/.vscode/extensions/ms-toolsai.jupyter-2021.6.999662501/out/client/extension.js:37:826359)
+	at async Promise.all (index 0)]
+Info 2021-10-02 21:24:51: Process Execution: > /usr/bin/python3 -m pip list
+> /usr/bin/python3 -m pip list
+Info 2021-10-02 21:24:51: Process Execution: > /usr/bin/python3 -m pip list
+> /usr/bin/python3 -m pip list
+Info 2021-10-02 21:24:51: Process Execution: > /usr/bin/python3 -c "import jupyter"
+> /usr/bin/python3 -c "import jupyter"
+Info 2021-10-02 21:24:51: Process Execution: > /usr/bin/python3 -c "import jupyter"
+> /usr/bin/python3 -c "import jupyter"
+Info 2021-10-02 21:24:51: Process Execution: > /usr/bin/python3 -c "import notebook"
+> /usr/bin/python3 -c "import notebook"
+Info 2021-10-02 21:24:51: Process Execution: > /usr/bin/python3 -c "import notebook"
+> /usr/bin/python3 -c "import notebook"
