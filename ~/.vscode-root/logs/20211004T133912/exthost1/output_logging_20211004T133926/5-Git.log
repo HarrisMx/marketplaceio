@@ -545,3 +545,175 @@ From https://github.com/HarrisMx/marketplaceio
 > git config --get commit.template
 > git check-ignore -v -z --stdin
 > git add -A -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Authentication/Auth.py /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/Cache/index-dir/the-real-index /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/GPUCache/data_1 /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/User/globalStorage/state.vscdb /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/User/workspaceStorage/2043c08808b11c6d72ff670c5ef27e7b/state.vscdb /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/logs/20211004T133912/exthost1/exthost.log /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/logs/20211004T133912/exthost1/output_logging_20211004T133926/5-Git.log /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/logs/20211004T133912/exthost1/output_logging_20211004T133930/7-GitHub Authentication.log /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/logs/20211004T133912/renderer1.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Authentication/Auth.py
+> git cat-file -s 525f3f3fd78ac0e6b97ef90c3faa8bd742142c7a
+> git show --textconv :Authentication/Auth.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Authentication/Auth.py
+> git cat-file -s 525f3f3fd78ac0e6b97ef90c3faa8bd742142c7a
+> git show --textconv :Authentication/Auth.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push origin jwt-auth:jwt-auth
+To https://github.com/HarrisMx/marketplaceio.git
+   fcf6461..9c5f9cc  jwt-auth -> jwt-auth
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Authentication/Auth.py
+> git cat-file -s 525f3f3fd78ac0e6b97ef90c3faa8bd742142c7a
+> git show --textconv :Authentication/Auth.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :~/.vscode-root/logs/20211004T133912/exthost1/output_logging_20211004T133930/7-GitHub Authentication.log
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/logs/20211004T133912/exthost1/output_logging_20211004T133930/7-GitHub Authentication.log
+> git cat-file -s 84e2f1367b624c76852db29eff53ccccd4edf3f9
+> git check-ignore -v -z --stdin
+> git show --textconv :Controllers/UserController.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/UserController.py
+> git cat-file -s 1f920f06d119f5eaffca1cda6043bd460905cfb9
+> git show --textconv :Authentication/Auth.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Authentication/Auth.py
+> git cat-file -s 525f3f3fd78ac0e6b97ef90c3faa8bd742142c7a
+> git show --textconv :Controllers/UserController.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/UserController.py
+> git cat-file -s 1f920f06d119f5eaffca1cda6043bd460905cfb9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Authentication/Auth.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Authentication/Auth.py
+> git cat-file -s 525f3f3fd78ac0e6b97ef90c3faa8bd742142c7a
+> git show --textconv :Controllers/UserController.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/UserController.py
+> git cat-file -s 1f920f06d119f5eaffca1cda6043bd460905cfb9
+> git show --textconv :Authentication/Auth.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Authentication/Auth.py
+> git cat-file -s 525f3f3fd78ac0e6b97ef90c3faa8bd742142c7a
+> git show --textconv :Controllers/UserController.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/UserController.py
+> git cat-file -s 1f920f06d119f5eaffca1cda6043bd460905cfb9
+> git show --textconv :Authentication/Auth.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Authentication/Auth.py
+> git cat-file -s 525f3f3fd78ac0e6b97ef90c3faa8bd742142c7a
+> git show --textconv :Controllers/UserController.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/UserController.py
+> git cat-file -s 1f920f06d119f5eaffca1cda6043bd460905cfb9
+> git show --textconv :Authentication/Auth.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Authentication/Auth.py
+> git cat-file -s 525f3f3fd78ac0e6b97ef90c3faa8bd742142c7a
+> git show --textconv :Controllers/UserController.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/UserController.py
+> git cat-file -s 1f920f06d119f5eaffca1cda6043bd460905cfb9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :Authentication/Auth.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Authentication/Auth.py
+> git cat-file -s 525f3f3fd78ac0e6b97ef90c3faa8bd742142c7a
+> git show --textconv :Controllers/UserController.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/UserController.py
+> git cat-file -s 1f920f06d119f5eaffca1cda6043bd460905cfb9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :__init__.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/__init__.py
+> git cat-file -s 8e0f857904a2f9fcb4563b1386069951ab70e256
+> git show --textconv :Controllers/UserController.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/UserController.py
+> git cat-file -s 1f920f06d119f5eaffca1cda6043bd460905cfb9
+> git show --textconv :Authentication/Auth.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Authentication/Auth.py
+> git cat-file -s 525f3f3fd78ac0e6b97ef90c3faa8bd742142c7a
+> git show --textconv :Controllers/UserController.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/UserController.py
+> git cat-file -s 1f920f06d119f5eaffca1cda6043bd460905cfb9
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/UserController.py /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/Cache/cbc42e4c979f69f0_0 /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/Cache/index-dir/the-real-index /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/GPUCache/data_1 /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/TransportSecurity /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/User/globalStorage/state.vscdb /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/User/workspaceStorage/2043c08808b11c6d72ff670c5ef27e7b/state.vscdb /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/logs/20211004T133912/exthost1/exthost.log /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/logs/20211004T133912/exthost1/output_logging_20211004T133926/5-Git.log /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/logs/20211004T133912/exthost1/output_logging_20211004T133930/7-GitHub Authentication.log /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/logs/20211004T133912/main.log /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/storage.json

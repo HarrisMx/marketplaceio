@@ -322,3 +322,27 @@
 	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
 	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
 	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-05 08:26:53.806] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-05 08:26:53.806] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148975
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-05 13:33:45.808] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-05 13:33:45.818] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+	at async g.provideHover (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
+[2021-10-05 13:45:20.649] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-05 13:45:20.649] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148975
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-05 13:45:47.416] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-05 13:45:47.416] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+	at async g.provideHover (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
