@@ -39,3 +39,7 @@
 [2021-10-02 21:24:50.794] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/npm/dist/npmMain
 [2021-10-02 21:24:51.418] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
 [2021-10-02 21:24:51.418] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-python.vscode-pylance-2021.6.3/dist/extension.bundle.js
+[2021-10-02 21:26:09.665] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1017
+[2021-10-02 21:26:47.086] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 1018
+[2021-10-02 21:29:41.659] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 828
+[2021-10-02 21:49:50.631] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 841

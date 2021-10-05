@@ -1,0 +1,78 @@
+[2021-10-04 14:29:24.771] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:29:45.455] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:29:47.055] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:29:57.414] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:29:58.990] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:33:24.521] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:34:54.217] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:34:56.024] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)

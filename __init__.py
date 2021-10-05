@@ -1,18 +1,21 @@
-from flask import Flask, request, jsonify, make_response, url_for, abort
+from flask import Flask, request, jsonify, make_response, url_for, abort, make_response
 from flask_httpauth import HTTPBasicAuth
 from flask_cors import CORS, cross_origin
 from .Controllers.BusinessController import BusinessHandler
 from .Controllers.UserController import UserHandler
 from .Controllers.LogsHandler import Logs
+from .Authentication.Auth import Authentication
 import time
 import json
 from datetime import datetime
 from datetime import date
 import os
+from .Functions.config import Config
 
 app = Flask(__name__)
 app.config['CORS_HEADERS'] = 'Content-Type'
 app.config['CORS_ORIGINS'] = "*"
+app.config['SECRET_KEY'] = Config['secret_key']
 app.config['DEBUG'] = True
 
 cors = CORS(app)
@@ -41,8 +44,8 @@ def home():
 @app.route('/api/User/Login', methods=['POST'])
 def Login():
     try:
-        response = UserHandler.loginUser(request)
-        return response
+        response = Authentication.authenticateLogin(request)
+        return make_response(response, 200)
     except Exception as exc:
         recordLogs(f"Entry Exception: {str(exc)}")
 

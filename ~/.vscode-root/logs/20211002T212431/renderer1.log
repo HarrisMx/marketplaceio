@@ -5,3 +5,15 @@
     at async p.readStream (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2428:39495)
     at async Xr.resolveFromFile (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2420:102493)
     at async Object.factory (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2428:33618)
+[2021-10-02 21:39:39.057] [renderer1] [error] XHR failed: downloading: XHR failed
+    at F.downloadInstallableExtension (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:196173)
+    at async F.doRun (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:195377)
+[2021-10-02 21:42:36.194] [renderer1] [error] XHR failed: downloading: XHR failed
+    at F.downloadInstallableExtension (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:196173)
+    at async F.doRun (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:195377)
+[2021-10-02 21:59:08.264] [renderer1] [error] XHR failed: downloading: XHR failed
+    at F.downloadInstallableExtension (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:196173)
+    at async F.doRun (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:195377)
+[2021-10-02 21:59:52.868] [renderer1] [error] XHR failed: downloading: XHR failed
+    at F.downloadInstallableExtension (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:196173)
+    at async F.doRun (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:195377)

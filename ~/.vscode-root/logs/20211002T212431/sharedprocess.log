@@ -15,3 +15,72 @@
 [2021-10-02 21:25:27.772] [sharedprocess] [info] Renamed to /root/.vscode/extensions/tabnine.tabnine-vscode-3.4.29
 [2021-10-02 21:25:27.775] [sharedprocess] [info] Extracting completed. tabnine.tabnine-vscode
 [2021-10-02 21:25:27.840] [sharedprocess] [info] Extension installed successfully: tabnine.tabnine-vscode
+[2021-10-02 21:39:38.986] [sharedprocess] [error] Error while installing the extension: yandeu.five-server
+[2021-10-02 21:39:38.986] [sharedprocess] [error] downloading: XHR failed
+    at F.downloadInstallableExtension (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:196173)
+    at async F.doRun (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:195377)
+[2021-10-02 21:39:38.987] [sharedprocess] [error] Failed to install extension: yandeu.five-server XHR failed
+[2021-10-02 21:39:38.989] [sharedprocess] [error] Error while installing the extension: ms-python.vscode-pylance
+[2021-10-02 21:39:38.989] [sharedprocess] [error] downloading: XHR failed
+    at F.downloadInstallableExtension (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:196173)
+    at async F.doRun (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:195377)
+[2021-10-02 21:39:38.990] [sharedprocess] [error] Failed to install extension: ms-python.vscode-pylance XHR failed
+[2021-10-02 21:39:38.992] [sharedprocess] [error] Error while installing the extension: ms-python.python
+[2021-10-02 21:39:38.993] [sharedprocess] [error] downloading: XHR failed
+    at F.downloadInstallableExtension (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:196173)
+    at async F.doRun (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:195377)
+[2021-10-02 21:39:38.993] [sharedprocess] [error] Failed to install extension: ms-python.python XHR failed
+[2021-10-02 21:39:39.068] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-10-02 21:39:39.070] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-10-02 21:39:39.071] [sharedprocess] [info] Installing extension: yandeu.five-server
+[2021-10-02 21:40:34.319] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-10-02 21:41:45.984] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2021-10-02 21:42:36.137] [sharedprocess] [error] Error while installing the extension: ms-python.vscode-pylance
+[2021-10-02 21:42:36.138] [sharedprocess] [error] downloading: XHR failed
+    at F.downloadInstallableExtension (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:196173)
+    at async F.doRun (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:195377)
+[2021-10-02 21:42:36.138] [sharedprocess] [error] Failed to install extension: ms-python.vscode-pylance XHR failed
+[2021-10-02 21:42:36.140] [sharedprocess] [error] Error while installing the extension: ms-python.python
+[2021-10-02 21:42:36.141] [sharedprocess] [error] downloading: XHR failed
+    at F.downloadInstallableExtension (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:196173)
+    at async F.doRun (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:195377)
+[2021-10-02 21:42:36.141] [sharedprocess] [error] Failed to install extension: ms-python.python XHR failed
+[2021-10-02 21:43:17.470] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2021-10-02 21:43:17.494] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.2e5ee173-677b-42f3-bc68-517cb48b9fee: ms-toolsai.jupyter-keymap
+[2021-10-02 21:43:17.543] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2021-10-02 21:43:17.546] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2021-10-02 21:46:56.283] [sharedprocess] [info] Downloaded extension: yandeu.five-server /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/CachedExtensionVSIXs/yandeu.five-server-0.0.33
+[2021-10-02 21:46:58.433] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.33bb94c2-6b8a-4a1d-addb-ba28781df3ec: yandeu.five-server
+[2021-10-02 21:46:58.502] [sharedprocess] [info] Renamed to /root/.vscode/extensions/yandeu.five-server-0.0.33
+[2021-10-02 21:46:58.505] [sharedprocess] [info] Extracting completed. yandeu.five-server
+[2021-10-02 21:46:58.596] [sharedprocess] [info] Extension installed successfully: yandeu.five-server
+[2021-10-02 21:59:08.159] [sharedprocess] [error] Error while installing the extension: ms-toolsai.jupyter
+[2021-10-02 21:59:08.160] [sharedprocess] [error] downloading: XHR failed
+    at F.downloadInstallableExtension (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:196173)
+    at async F.doRun (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:195377)
+[2021-10-02 21:59:08.204] [sharedprocess] [info] Rollback: Uninstalled extension ms-toolsai.jupyter-keymap
+[2021-10-02 21:59:08.205] [sharedprocess] [error] Failed to install extension: ms-toolsai.jupyter XHR failed
+[2021-10-02 21:59:08.270] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-10-02 21:59:08.272] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-10-02 21:59:08.276] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-10-02 21:59:08.402] [sharedprocess] [info] Detected extension removed from another source ms-toolsai.jupyter-keymap
+[2021-10-02 21:59:13.312] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2021-10-02 21:59:13.372] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2021-10-02 21:59:13.467] [sharedprocess] [info] Removed the extension from uninstalled list: ms-toolsai.jupyter-keymap
+[2021-10-02 21:59:52.763] [sharedprocess] [error] Error while installing the extension: ms-python.vscode-pylance
+[2021-10-02 21:59:52.763] [sharedprocess] [error] downloading: XHR failed
+    at F.downloadInstallableExtension (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:196173)
+    at async F.doRun (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:195377)
+[2021-10-02 21:59:52.769] [sharedprocess] [error] Failed to install extension: ms-python.vscode-pylance XHR failed
+[2021-10-02 21:59:52.770] [sharedprocess] [error] Error while installing the extension: ms-toolsai.jupyter
+[2021-10-02 21:59:52.808] [sharedprocess] [error] downloading: XHR failed
+    at F.downloadInstallableExtension (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:196173)
+    at async F.doRun (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:195377)
+[2021-10-02 21:59:52.811] [sharedprocess] [error] Error while installing the extension: ms-python.python
+[2021-10-02 21:59:52.812] [sharedprocess] [error] downloading: XHR failed
+    at F.downloadInstallableExtension (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:196173)
+    at async F.doRun (vscode-file://vscode-app/snap/code/75/usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:58:195377)
+[2021-10-02 21:59:52.813] [sharedprocess] [error] Failed to install extension: ms-python.python XHR failed
+[2021-10-02 21:59:52.925] [sharedprocess] [info] Rollback: Uninstalled extension ms-toolsai.jupyter-keymap
+[2021-10-02 21:59:52.926] [sharedprocess] [error] Failed to install extension: ms-toolsai.jupyter XHR failed
+[2021-10-02 21:59:53.013] [sharedprocess] [info] Detected extension removed from another source ms-toolsai.jupyter-keymap

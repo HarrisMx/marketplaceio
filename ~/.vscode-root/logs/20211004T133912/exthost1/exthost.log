@@ -1,0 +1,277 @@
+[2021-10-04 13:39:23.581] [exthost] [info] extension host started
+[2021-10-04 13:39:23.581] [exthost] [info] Skipping acquiring lock for /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/User/workspaceStorage/2043c08808b11c6d72ff670c5ef27e7b.
+[2021-10-04 13:39:23.704] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-10-04 13:39:23.704] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-04 13:39:23.782] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-10-04 13:39:23.782] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension
+[2021-10-04 13:39:24.325] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-toolsai.jupyter","_lower":"ms-toolsai.jupyter"},"activationEvent":"onLanguage:python"}
+[2021-10-04 13:39:24.325] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-toolsai.jupyter-2021.6.999662501/out/client/extension
+[2021-10-04 13:39:25.176] [exthost] [info] ExtensionService#_doActivateExtension tht13.python {"startup":false,"extensionId":{"value":"tht13.python","_lower":"tht13.python"},"activationEvent":"onLanguage:python"}
+[2021-10-04 13:39:25.176] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/tht13.python-0.2.3/out/client/src/pythonMain
+[2021-10-04 13:39:25.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-10-04 13:39:25.849] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-04 13:39:25.887] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-10-04 13:39:25.887] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/git/dist/main
+[2021-10-04 13:39:25.956] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode {"startup":true,"extensionId":{"value":"TabNine.tabnine-vscode","_lower":"tabnine.tabnine-vscode"},"activationEvent":"*"}
+[2021-10-04 13:39:25.956] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/tabnine.tabnine-vscode-3.4.29/out/extension
+[2021-10-04 13:39:26.055] [exthost] [info] ExtensionService#_doActivateExtension yandeu.five-server {"startup":true,"extensionId":{"value":"yandeu.five-server","_lower":"yandeu.five-server"},"activationEvent":"*"}
+[2021-10-04 13:39:26.055] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/yandeu.five-server-0.0.33/out/extension.js
+[2021-10-04 13:39:26.744] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-10-04 13:39:26.744] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-10-04 13:39:26.761] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-10-04 13:39:26.762] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-10-04 13:39:26.805] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-10-04 13:39:26.805] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-10-04 13:39:27.402] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-10-04 13:39:27.403] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-10-04 13:39:28.389] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-10-04 13:39:28.389] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-04 13:39:29.317] [exthost] [info] eager extensions activated
+[2021-10-04 13:39:29.352] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-10-04 13:39:29.352] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-04 13:39:30.250] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-10-04 13:39:30.250] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-04 13:39:30.372] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-10-04 13:39:30.373] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/75/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-04 13:39:31.036] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 866
+[2021-10-04 13:39:34.991] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance {"startup":false,"extensionId":{"value":"ms-python.vscode-pylance","_lower":"ms-python.vscode-pylance"},"activationEvent":"onLanguage:python"}
+[2021-10-04 13:39:34.991] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-python.vscode-pylance-2021.6.3/dist/extension.bundle.js
+[2021-10-04 13:39:52.807] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 13:39:52.807] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+	at async g.provideHover (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
+[2021-10-04 13:43:16.303] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 884
+[2021-10-04 13:43:27.407] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 884
+[2021-10-04 13:46:30.593] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 883
+[2021-10-04 13:49:43.547] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 887
+[2021-10-04 13:50:01.014] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 13:50:01.015] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+	at async S.provideCodeActions (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-10-04 13:51:33.058] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 889
+[2021-10-04 13:51:47.452] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 889
+[2021-10-04 13:51:52.774] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 13:51:52.774] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148975
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 13:52:02.236] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
+[2021-10-04 13:52:07.415] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
+[2021-10-04 14:28:45.676] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:28:45.676] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148975
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:29:14.468] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:29:14.468] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+	at async g.provideHover (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
+[2021-10-04 14:29:24.767] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:29:24.767] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:29:43.338] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
+[2021-10-04 14:29:45.453] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:29:45.453] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:29:46.229] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:29:46.229] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:29:47.048] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:29:47.049] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:29:47.405] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:29:47.405] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:29:57.411] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:29:57.412] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:29:58.987] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:29:58.988] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:29:59.406] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:29:59.407] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:33:24.479] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:33:24.479] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:34:18.334] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 889
+[2021-10-04 14:34:44.687] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 889
+[2021-10-04 14:34:49.782] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 889
+[2021-10-04 14:34:54.214] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:34:54.215] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:34:55.017] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:34:55.017] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:34:56.022] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:34:56.022] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30732)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:30681)
+	at new s (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:87:17480)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138227)
+	at H (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:138402)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:59:143565)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148897
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 14:35:19.453] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:35:19.453] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+	at async S.provideCodeActions (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-10-04 14:35:24.245] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:35:24.245] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+	at async S.provideCodeActions (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-10-04 14:35:43.007] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 889
+[2021-10-04 14:41:10.081] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 889
+[2021-10-04 14:41:41.047] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 889
+[2021-10-04 14:41:50.960] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 889
+[2021-10-04 14:41:56.072] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 889
+[2021-10-04 14:42:26.973] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 889
+[2021-10-04 14:43:12.662] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
+[2021-10-04 14:43:53.832] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
+[2021-10-04 14:44:41.713] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
+[2021-10-04 14:44:49.487] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
+[2021-10-04 14:51:08.302] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:51:08.302] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:143537
+	at async $.resolveCompletionItem (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-10-04 14:53:01.970] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
+[2021-10-04 14:53:44.757] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:53:44.757] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+	at async S.provideCodeActions (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-10-04 14:54:42.347] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 14:54:42.348] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:151848
+	at async S.provideCodeActions (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:168622)
+[2021-10-04 15:01:56.513] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
+[2021-10-04 15:02:51.297] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 15:02:51.297] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:143537
+	at async $.resolveCompletionItem (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:177637)
+[2021-10-04 15:03:07.424] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
+[2021-10-04 15:04:29.531] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
+[2021-10-04 15:04:59.286] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
+[2021-10-04 15:05:52.065] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
+[2021-10-04 15:05:59.514] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 15:05:59.514] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148975
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 15:06:02.643] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-04 15:06:02.647] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148975
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-04 15:06:34.478] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
+[2021-10-04 15:06:42.667] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
+[2021-10-04 15:07:08.733] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 888
