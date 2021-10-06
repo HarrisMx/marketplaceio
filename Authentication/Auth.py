@@ -30,7 +30,7 @@ class Authentication(object):
             else:
                 return jsonify({'Success': False, "Message": "Login Failed"})
         except Exception as exc:
-            LogsHandler.recordLogs(f"LoginException : {str(exc)}")
+            LogsHandler.recordLogs(f"LogoutException : {str(exc)}")
 
     @staticmethod
     def logoutUser(request):

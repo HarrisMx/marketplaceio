@@ -346,3 +346,39 @@
 	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
 	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
 	at async g.provideHover (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
+[2021-10-05 23:09:32.399] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-05 23:09:32.410] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148975
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-05 23:39:08.006] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-05 23:39:08.007] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148975
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-06 06:52:11.168] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-06 06:52:11.168] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+	at async g.provideHover (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)
+[2021-10-06 06:56:00.706] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-06 06:56:00.706] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148975
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-06 06:57:39.618] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-06 06:57:39.618] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:148975
+	at async l.provideDocumentSymbols (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:163113)
+[2021-10-06 07:44:53.346] [exthost] [error] [ms-python.python] provider FAILED
+[2021-10-06 07:44:53.359] [exthost] [error] Canceled: Canceled
+	at E.makeCancelError (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:184136)
+	at E.handleFailedRequest (/root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:183987)
+	at /root/.vscode/extensions/ms-python.python-2021.6.944021595/out/client/extension.js:9:144329
+	at async g.provideHover (/snap/code/75/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:166317)

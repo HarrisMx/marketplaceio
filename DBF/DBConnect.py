@@ -1,7 +1,5 @@
 from datetime import datetime
 import pymysql
-import os
-import time
 from ..Functions.config import Config
 from ..Controllers.LogsHandler import Logs
 

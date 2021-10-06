@@ -35,13 +35,18 @@ class UserHandler (object):
             email = request.json['email']
             password = request.json['password']
 
-            Logs.recordLogs(f"registerUser data: {phone_number} {id_number} {fullname} {email} {password}")
+            Logs.recordLogs(f"registerUser data: {phone_number} ,{id_number} ,{fullname} ,{email} ,{password}")
             res = dbfObj.RegisterUser(phone_number, id_number, fullname, email, password)
-            jwt_token = jwt.encode({
+            try:
+                jwt_token = jwt.encode({
                     'user_token': res[0],
                     'sessions_expires_on': str(datetime.utcnow() + timedelta(hours = 8))
                 },
-                Config['secret_key'])
-            return jsonify({"Success": True, "messages": ["Registration Success", "You will recieve an sms confirming your registration shortly."], "auth_token": jwt_token})
+                Config['secret_key'],
+                algorithm="HS256")
+                return jsonify({"Success": True, "messages": ["Registration Success", "You will recieve an sms confirming your registration shortly."], "auth_token": jwt_token})
+            except Exception as exc:
+                Logs.recordLogs(f"JWTEncodeError: {str(exc)}")
+            
         except Exception as exc:
             Logs.recordLogs(f"RegistrationException: {str(exc)}")

@@ -10,7 +10,7 @@ class DBFunctions(object):
         res = self.qryConn.fetchone()
         return res
     
-    def RegisterUser(self, phone_number, id_number):
-        self.qryConn.callproc("spRegisterUser", [phone_number, id_number])
+    def RegisterUser(self, phone_number, id_number, fullname, email, password):
+        self.qryConn.callproc("spRegisterUser", [phone_number, id_number, fullname, email, password])
         res = self.qryConn.fetchone()
         return res

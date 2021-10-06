@@ -1,0 +1,4 @@
+21:32:29 - Success: Connection to database succeeded
+21:32:29 - RegistrationException: 'NoneType' object is not subscriptable
+21:38:54 - Success: Connection to database succeeded
+21:38:54 - RegistrationException: 'NoneType' object is not subscriptable
