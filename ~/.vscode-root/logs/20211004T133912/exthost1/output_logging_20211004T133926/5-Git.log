@@ -1458,3 +1458,60 @@ fatal: Authentication failed for 'https://github.com/HarrisMx/marketplaceio.git/
 > git config --get commit.template
 > git check-ignore -v -z --stdin
 > git add -A -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Authentication/Auth.py /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/UserController.py /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/__pycache__/UserController.cpython-38.pyc /home/mxolisi/Documents/Codes/Python/marketplaceio/DBF/DBConnect.py /home/mxolisi/Documents/Codes/Python/marketplaceio/DBF/DBFunctions.py /home/mxolisi/Documents/Codes/Python/marketplaceio/__init__.py /home/mxolisi/Documents/Codes/Python/marketplaceio/__pycache__/__init__.cpython-38.pyc /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/Cache/cbc42e4c979f69f0_0 /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/Cache/index-dir/the-real-index /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/GPUCache/data_1 /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/User/globalStorage/state.vscdb /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/User/workspaceStorage/2043c08808b11c6d72ff670c5ef27e7b/state.vscdb /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/logs/20211004T133912/exthost1/exthost.log /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/logs/20211004T133912/exthost1/output_logging_20211004T133926/5-Git.log /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/logs/20211004T133912/exthost1/output_logging_20211004T133930/7-GitHub Authentication.log /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/logs/20211004T133912/main.log /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/logs/20211004T133912/renderer1.log /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/storage.json /home/mxolisi/Documents/Codes/Python/marketplaceio/Authentication/__pycache__/Auth.cpython-38.pyc /home/mxolisi/Documents/Codes/Python/marketplaceio/DBF/__pycache__/DBConnect.cpython-38.pyc /home/mxolisi/Documents/Codes/Python/marketplaceio/DBF/__pycache__/DBFunctions.cpython-38.pyc /home/mxolisi/Documents/Codes/Python/marketplaceio/Functions/__pycache__/config.cpython-38.pyc /home/mxolisi/Documents/Codes/Python/marketplaceio/Logs/05-10-2021.txt /home/mxolisi/Documents/Codes/Python/marketplaceio/Logs/06-10-2021.txt /home/mxolisi/Documents/Codes/Python/marketplaceio/requirements.txt
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/UserController.py
+> git cat-file -s 6d044424cc823188e345cb8a49f5c00ddf67143b
+> git show --textconv :Controllers/UserController.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/UserController.py
+> git cat-file -s 6d044424cc823188e345cb8a49f5c00ddf67143b
+> git show --textconv :Controllers/UserController.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git push origin jwt-auth:jwt-auth
+To https://github.com/HarrisMx/marketplaceio.git
+   f17c999..6631c4b  jwt-auth -> jwt-auth
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/UserController.py
+> git cat-file -s 6d044424cc823188e345cb8a49f5c00ddf67143b
+> git show --textconv :Controllers/UserController.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/jwt-auth refs/remotes/jwt-auth
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Controllers/UserController.py
+> git show --textconv :Functions/config.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/Functions/config.py
+> git cat-file -s 368565944529a27e85e18abcb1b9250bb27c6f43
+> git show --textconv :DBF/DBConnect.py
+> git ls-files --stage -- /home/mxolisi/Documents/Codes/Python/marketplaceio/DBF/DBConnect.py
+> git cat-file -s 47a0e65cde484f47764a08586aff1e3fdadf6c29

@@ -20,6 +20,10 @@
                         "label": "New &&Window"
                     },
                     {
+                        "id": "welcome.showNewFileEntries",
+                        "label": "New File..."
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -32,7 +36,7 @@
                     },
                     {
                         "id": "workbench.action.openWorkspace",
-                        "label": "Open Wor&&kspace..."
+                        "label": "Open Wor&&kspace from File..."
                     },
                     {
                         "id": "submenuitem.30",
@@ -41,7 +45,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -143,7 +148,7 @@
                                 },
                                 {
                                     "id": "workbench.extensions.action.showRecommendedKeymapExtensions",
-                                    "label": "&&Keymaps"
+                                    "label": "&&Migrate Keyboard Shortcuts from..."
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -467,6 +472,13 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "workbench.action.splitEditorInGroup",
+                                    "label": "Split in &&Group"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.editorLayoutSingle",
                                     "label": "&&Single"
                                 },
@@ -532,6 +544,10 @@
                         "label": "E&&xtensions"
                     },
                     {
+                        "id": "workbench.view.extension.test",
+                        "label": "T&&esting"
+                    },
+                    {
                         "id": "vscode.menubar.separator"
                     },
                     {
@@ -555,7 +571,8 @@
                     },
                     {
                         "id": "editor.action.toggleWordWrap",
-                        "label": "&&Word Wrap"
+                        "label": "&&Word Wrap",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.toggleMinimap",
@@ -959,15 +976,19 @@
                 "items": [
                     {
                         "id": "workbench.action.openWalkthrough",
-                        "label": "Welcome"
+                        "label": "Get Started"
                     },
                     {
-                        "id": "workbench.action.showInteractivePlayground",
-                        "label": "I&&nteractive Playground"
+                        "id": "workbench.action.showCommands",
+                        "label": "Show All Commands"
                     },
                     {
                         "id": "workbench.action.openDocumentationUrl",
                         "label": "&&Documentation"
+                    },
+                    {
+                        "id": "workbench.action.showInteractivePlayground",
+                        "label": "Editor Playgrou&&nd"
                     },
                     {
                         "id": "update.showCurrentReleaseNotes",
@@ -981,8 +1002,8 @@
                         "label": "&&Keyboard Shortcuts Reference"
                     },
                     {
-                        "id": "workbench.action.openIntroductoryVideosUrl",
-                        "label": "Introductory &&Videos"
+                        "id": "workbench.action.openVideoTutorialsUrl",
+                        "label": "&&Video Tutorials"
                     },
                     {
                         "id": "workbench.action.openTipsAndTricksUrl",
@@ -1044,6 +1065,10 @@
                 "label": "Ctrl+Shift+N",
                 "userSettingsLabel": "ctrl+shift+n"
             },
+            "welcome.showNewFileEntries": {
+                "label": "Ctrl+Alt+Super+N",
+                "userSettingsLabel": "ctrl+alt+meta+n"
+            },
             "workbench.action.files.openFile": {
                 "label": "Ctrl+O",
                 "userSettingsLabel": "ctrl+o"
@@ -1082,11 +1107,6 @@
                 "label": "Ctrl+K Ctrl+S",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+k ctrl+s"
-            },
-            "workbench.extensions.action.showRecommendedKeymapExtensions": {
-                "label": "Ctrl+K Ctrl+M",
-                "isNative": false,
-                "userSettingsLabel": "ctrl+k ctrl+m"
             },
             "workbench.action.selectTheme": {
                 "label": "Ctrl+K Ctrl+T",
@@ -1242,6 +1262,11 @@
                 "label": "Ctrl+NumPad0",
                 "isNative": false,
                 "userSettingsLabel": "ctrl+numpad0"
+            },
+            "workbench.action.splitEditorInGroup": {
+                "label": "Ctrl+K Ctrl+Shift+\\",
+                "isNative": false,
+                "userSettingsLabel": "ctrl+k ctrl+shift+\\"
             },
             "workbench.action.toggleEditorGroupLayout": {
                 "label": "Shift+Alt+0",
@@ -1474,10 +1499,10 @@
             "backupPath": "/home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/Backups/00861f6b6dc364f654489bebb863c59d",
             "uiState": {
                 "mode": 0,
-                "x": 580,
+                "x": 0,
                 "y": 64,
-                "width": 1024,
-                "height": 731
+                "width": 1920,
+                "height": 1016
             }
         },
         "openedWindows": []

@@ -1,0 +1,31 @@
+[2021-10-17 14:52:49.911] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-10-17 14:52:55.086] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /root/.vscode/extensions/ms-toolsai.jupyter-2021.8.2041215044
+[2021-10-17 14:52:56.481] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /root/.vscode/extensions/ms-python.vscode-pylance-2021.9.4
+[2021-10-17 14:52:56.544] [sharedprocess] [info] Deleted from disk ms-python.python /root/.vscode/extensions/ms-python.python-2021.9.1246542782
+[2021-10-17 14:53:00.891] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-10-17 14:53:00.894] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-10-17 14:53:01.399] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-10-17 14:53:01.889] [sharedprocess] [info] Installing extension: tabnine.tabnine-vscode
+[2021-10-17 14:53:09.379] [sharedprocess] [info] Downloaded extension: tabnine.tabnine-vscode /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/CachedExtensionVSIXs/tabnine.tabnine-vscode-3.4.30
+[2021-10-17 14:53:09.428] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.4e787f22-7b78-40df-b3b9-ffe779320294: tabnine.tabnine-vscode
+[2021-10-17 14:53:09.548] [sharedprocess] [info] Renamed to /root/.vscode/extensions/tabnine.tabnine-vscode-3.4.30
+[2021-10-17 14:53:09.551] [sharedprocess] [info] Extracting completed. tabnine.tabnine-vscode
+[2021-10-17 14:53:09.600] [sharedprocess] [info] Extension installed successfully: tabnine.tabnine-vscode
+[2021-10-17 14:53:09.910] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-10-17 14:53:09.911] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-10-17 14:53:19.916] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-10-17 14:58:55.893] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.9.1101343141
+[2021-10-17 14:58:56.655] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.8bfb49c5-7374-48c2-98ef-ff2fb15655d9: ms-toolsai.jupyter
+[2021-10-17 14:58:56.724] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-toolsai.jupyter-2021.9.1101343141
+[2021-10-17 14:58:56.727] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2021-10-17 14:58:56.769] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-10-17 15:02:18.591] [sharedprocess] [info] Downloaded extension: ms-python.python /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/CachedExtensionVSIXs/ms-python.python-2021.10.1336267007
+[2021-10-17 15:02:21.145] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.c10231b7-d742-41d2-8044-ab1c42d46586: ms-python.python
+[2021-10-17 15:02:21.247] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.python-2021.10.1336267007
+[2021-10-17 15:02:21.251] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-10-17 15:02:21.290] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-10-17 15:02:41.102] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/mxolisi/Documents/Codes/Python/marketplaceio/~/.vscode-root/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.10.1
+[2021-10-17 15:02:45.031] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.eb198006-6313-4d93-b8cc-c4a806e4b12d: ms-python.vscode-pylance
+[2021-10-17 15:02:45.345] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.vscode-pylance-2021.10.1
+[2021-10-17 15:02:45.348] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-10-17 15:02:45.489] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

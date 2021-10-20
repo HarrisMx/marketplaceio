@@ -58,6 +58,14 @@ def Register():
     except Exception as exc:
         recordLogs(f"Entry Exception: {str(exc)}")
 
+@app.route('/api/User/getOTP', methods=['POST'])
+def getOTP():
+    try:
+        response = UserHandler.getOTP(request)
+        return response
+    except Exception as exc:
+        recordLogs(f"Entry Exception: {str(exc)}")
+
 @app.route('/api/User/Profile', methods=['POST'])
 def Profile():
     try:
